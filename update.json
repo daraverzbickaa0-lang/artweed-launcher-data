@@ -5,10 +5,10 @@
     "force_update": false
   },
   "build": {
-    "version": 3,
-    "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
-    "is_active": false,
-    "date": "14.01.2026"
+    "version": 1,
+    "url": "https://www.dropbox.com/scl/fi/5elxk8mb3soft6wb2rzjr/artweedproject.zip?rlkey=jfo9buxpvdsim0hyh12plg19u&st=0i2cfi3p&dl=1",
+    "is_active": true,
+    "date": "04.04.2026"
   },
   "bonus_text": "DOLMEN STATE"
 }
